@@ -14,8 +14,11 @@ system reports like finding the most popular events in a month based on the numb
 people who attended etc.
 
 We have used HTML and CSS for the pages, PHP for connecting them to the database, and SQL for the database itself.
+h.
 
 ### Grades
 **Proposal Report:** 99\
 **Design Report:** 99\
 **Final Report:** 100
+
+
