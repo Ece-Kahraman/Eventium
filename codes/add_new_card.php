@@ -1,4 +1,5 @@
 <?php
+//ehuehue
 require('connection.php');    
 session_start();
 $id = $_SESSION['user_id'];
