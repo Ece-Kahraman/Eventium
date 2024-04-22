@@ -12,6 +12,8 @@ other restrictions in the system. For example, the details of the events should 
 edited by the user who created them. The system also has an admin user who can create
 system reports like finding the most popular events in a month based on the number of
 people who attended etc.
+>
+>#cool project
 
 We have used HTML and CSS for the pages, PHP for connecting them to the database, and SQL for the database itself.
 h.
